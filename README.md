@@ -1,4 +1,4 @@
-# Cricbuzz-capstone
+# Cricbuzz
 🏏 Cricket Analytics Dashboard 
 📌 Overview
 This project is a full-stack cricket analytics platform that integrates live match data from the Cricbuzz API with a SQL-backed database and delivers an interactive web experience. Designed for both fans and analysts, it offers real-time insights, player statistics, and full data management capabilities.

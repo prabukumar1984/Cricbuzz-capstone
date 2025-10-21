@@ -37,4 +37,4 @@ This project is a full-stack cricket analytics platform that integrates live mat
 - Streamlit UI enhancements: icons, tooltips, tabbed layout
 - Data modeling for sports analytics
 - Building learner-friendly interfaces for CRUD and stats exploration
-- 
+  
